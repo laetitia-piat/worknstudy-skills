@@ -6,9 +6,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
+- les `structures` de base du langage ✔️
 - les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
+- l'utilisation de l'`asynchrone`  ✔️
 - les spécifités du mot-clef `this` ❌ / ✔️
 
 ## 💻 Je code en Javascript
@@ -21,13 +21,13 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[[lien github](...)](https://github.com/laetitia-piat/Portfolio)
 
 Description :
 
 ### J'ai utilisé ce langage en production ❌ / ✔️
 
-[lien du projet](...)
+[[lien du projet](...)](https://portfolio-laetitia-piats-projects.vercel.app/)
 
 Description :
 
