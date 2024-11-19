@@ -17,19 +17,19 @@
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
-
-Description :
-
-### Utilisation en production si applicable❌ / ✔️
-
-[lien du projet](...)
+[[lien github](...)](https://github.com/laetitia-piat/Good_Corner)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en production si applicable ✔️
+
+[[lien du projet](...)](https://good-corner.vercel.app/)
+
+Description :
+
+### Utilisation en environement professionnel  ✔️
 
 Description :
 
