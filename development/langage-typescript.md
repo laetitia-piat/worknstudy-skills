@@ -6,8 +6,8 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
-- les types de bases ❌ / ✔️
+- l'intéret de TypeScript dans l'IDE   ✔️
+- les types de bases  ✔️
 - comment et pourquoi étendre une interface ❌ / ✔️
 - les classes et les decorators ❌ / ✔️
 
@@ -15,19 +15,19 @@
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
-[lien github](...)
-
-Description :
-
-### Utilisation en production si applicable❌ / ✔️
-
-[lien du projet](...)
+[[lien github](...)](https://github.com/laetitia-piat/Good_Corner)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en production si applicable ✔️
+
+[[lien du projet](...)](https://good-corner.vercel.app/)
+
+Description :
+
+### Utilisation en environement professionnel  ✔️
 
 Description :
 
