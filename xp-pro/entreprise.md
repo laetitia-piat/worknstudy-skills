@@ -1,10 +1,11 @@
-# Le nom de l'entreprise
+# KLOCEL
 
 ## L'activité principale
 
-> Décris en quelques lignes l'activité principale de l'entreprise
+> Création d'un logiciel de logistique
 
 ## Ton équipe
 
-> Décris l'équipe avec laquelle tu travailles, les différents postes et ton interaction avec ces postes.
+> Une equipe dev composée de 2 alternants et de 4 developpeurs.
+> Une equipe fonctionnelle composée de 3 personnes à la hotline et 4 personnes aux tests
 
