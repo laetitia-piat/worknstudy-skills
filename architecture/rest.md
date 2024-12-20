@@ -16,19 +16,19 @@
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
 [lien github](...)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable ✔️
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌ 
 
 Description :
 
